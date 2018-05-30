@@ -1,0 +1,5 @@
+com\pearbit\hibernate\controller\AutorController.class
+com\pearbit\hibernate\main\Main.class
+com\pearbit\hibernate\model\entity\Autor.class
+com\pearbit\hibernate\model\daoImpl\AutorDAOImpl.class
+com\pearbit\hibernate\model\dao\AutorDAO.class
